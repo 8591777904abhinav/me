@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, Abhinav Kumar, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member at  🙍🏽‍♂️ AURO MIRRA CENTRE OF EDUCATION](https://auromirrapta.com/), web development intern at ICSGDD.
+Hi, Abhinav Kumar, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member at  🙍🏽‍♂️ [@AURO MIRRA CENTRE OF EDUCATION](https://auromirrapta.com/), web development intern at ICSGDD.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
