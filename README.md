@@ -4,7 +4,7 @@
 <a href="https://twitter.com/Abhinavkumarpat">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="https://https://www.linkedin.com/in/abhinav-kumar-724b411a9/">
+<a href="https://www.linkedin.com/in/abhinav-kumar-724b411a9/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://t.me/nnhhiilliisstt">
