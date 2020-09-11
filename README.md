@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://www.reddit.com/user/nniihhiilliisstt">
+<a href="https://www.reddit.com/user/ABHINAV8591">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />
 </a>
 
@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm Kumar Aditya, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member at  🙍🏽‍♂️ [@zero-to-mastery](https://github.com/zero-to-mastery), web development intern at ICSGDD.
+Hi, Abhinav Kumar, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member at  🙍🏽‍♂️ AURO MIRRA CENTRE OF EDUCATION](https://auromirrapta.com/), web development intern at ICSGDD.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
